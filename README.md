@@ -1,5 +1,7 @@
 # Linux System Monitor
-
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Platform](https://img.shields.io/badge/Platform-Linux-green)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 A lightweight Linux system monitoring tool developed in Python.  
 This project collects and displays real-time system information, resource usage statistics, and top running processes directly from the terminal.
 
