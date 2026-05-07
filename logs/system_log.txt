@@ -1,0 +1,19 @@
+
+==============================
+Timestamp: 2026-05-07 15:39:37.334800
+
+Hostname: DESKTOP-RTABI1J
+IP Address: 192.168.1.131
+Operating System: Windows
+Uptime: 1h 27m
+
+CPU Usage: 9.5%
+RAM Usage: 33.2%
+Disk Usage: 11.5%
+
+Top Processes:
+PID: 0 | Name: System Idle Process | CPU: 0.0%
+PID: 4 | Name: System | CPU: 0.0%
+PID: 172 | Name: Registry | CPU: 0.0%
+PID: 588 | Name: smss.exe | CPU: 0.0%
+PID: 800 | Name: csrss.exe | CPU: 0.0%
